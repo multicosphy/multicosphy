@@ -4,6 +4,10 @@
 
 > 注：`multicosphy/Cosphy` 是一个普通仓库首页索引。如果要让 README 直接显示在 GitHub 用户主页 `https://github.com/multicosphy`，需要另建与用户名完全一致的仓库 `multicosphy/multicosphy`。
 
+## 组织规则
+
+- [GitHub 仓库组织方案](docs/github-portfolio-plan.md)
+
 ## 课程作业项目
 
 - [Course-financial-time-series-analysis](https://github.com/multicosphy/Course-financial-time-series-analysis)  
