@@ -2,7 +2,7 @@
 
 按用途进行课程项目、研究探索和个人兴趣积累的整理。
 
-> 注：如果要让 README 直接显示在 GitHub 用户主页 `https://github.com/multicosphy`，需要另建与用户名完全一致的仓库 `multicosphy/multicosphy`。
+> 注：如果要让 README 直接显示在 GitHub 用户主页 `https://github.com/multicosphy`，需要建立与用户名完全一致的仓库 `multicosphy/multicosphy`。
 
 ## 整理规则
 
