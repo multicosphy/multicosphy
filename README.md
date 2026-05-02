@@ -1,8 +1,8 @@
 # Cosphy
 
-按用途进行课程项目、研究探索和个人兴趣积累的整理。
+按用途整理课程项目、研究探索和个人兴趣积累。
 
-> 注：如果要让 README 直接显示在 GitHub 用户主页 `https://github.com/multicosphy`，需要建立与用户名完全一致的仓库 `multicosphy/multicosphy`。
+> 当前仓库 `multicosphy/multicosphy` 是 GitHub Profile README 仓库；这里的 README 会显示在用户主页 `https://github.com/multicosphy`。
 
 ## 整理规则
 
