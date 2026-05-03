@@ -13,6 +13,9 @@
 - [Course-financial-time-series-analysis](https://github.com/multicosphy/Course-financial-time-series-analysis)  
   2025-2026-2《金融时间序列分析》课程资料、作业代码、数据处理与报告产出。
 
+- [Course-financial-machine-learning-final-project](https://github.com/multicosphy/Course-financial-machine-learning-final-project)  
+  2025-2026-2《金融机器学习》期末大作业资料、参考文献、复现实验代码与结果归档。
+
 ## 研究与论文探索
 
 - `Research-shibor-forecasting`  
