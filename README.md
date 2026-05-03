@@ -29,6 +29,9 @@
 
 ## 个人兴趣
 
+- [Project-DreamQuick](https://github.com/multicosphy/Project-DreamQuick)  
+  本地优先 Android 梦境记录应用，覆盖录音、中文 ASR 转写、历史、详情编辑、回顾和用户词表。
+
 - `Notes-economics-ai`  
   AI、经济学、金融计量和研究方法相关笔记。
 
