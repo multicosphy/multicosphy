@@ -32,6 +32,9 @@
 - [Project-DreamQuick](https://github.com/multicosphy/Project-DreamQuick)  
   本地优先 Android 梦境记录应用，覆盖录音、中文 ASR 转写、历史、详情编辑、回顾和用户词表。
 
+- [Project-Xiaodouni-Codex-Pet](https://github.com/multicosphy/Project-Xiaodouni-Codex-Pet)  
+  暹罗猫小豆泥 Codex 自定义桌宠包，包含可直接安装的 pet.json / spritesheet.webp 和可复现生成脚本。
+
 - `Notes-economics-ai`  
   AI、经济学、金融计量和研究方法相关笔记。
 
